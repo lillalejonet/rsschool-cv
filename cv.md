@@ -27,11 +27,11 @@ Math.round = function(number) {
 ***
 ## Education
 - [Institute of Information Technologies of the Belarussian State Univarsity of Informatics and Radioelectronics](https://iti.bsuir.by/specialties/2)
--[SQL](https://stepik.org/course/63054/syllabus)
+- [SQL](https://stepik.org/course/63054/syllabus)
 - [HTML/CSS](https://www.freecodecamp.org)
 - [JavaScript](https://learn.javascript.ru)
 ***
 ## Languages
 - Russian (native)
 - English (B2)
-- Deutch (A2)
+- Deutsch (A2)
