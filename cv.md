@@ -23,5 +23,7 @@ Math.round = function(number) {
  ```
 ***
 ## Experience
-> none :dissapointed_relieved:
+> none
 ***
+## Education
+Institute of Information Technologies of the Belarussian State Univarsity of Informatics and Radioelectronics
