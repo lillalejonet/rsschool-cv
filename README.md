@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lillalejonet.github.io/rsschool-cv/cv
