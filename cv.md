@@ -23,7 +23,7 @@ Math.round = function(number) {
  ```
 
 ## Experience
-[cv1](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+[CV#1](https://lillalejonet.github.io/rsschool-cv/cv)
 
 ## Education
 - [Institute of Information Technologies of the Belarussian State Univarsity of Informatics and Radioelectronics](https://iti.bsuir.by/specialties/2)
