@@ -15,3 +15,9 @@ I'm an enthusiastic and detail-oriented Software Engineer seeking an entry-level
 - CSS
 - JavaScript (fundamentals)
 ***
+## Code Example
+```
+Math.round = function(number) {
+   return (number - parseInt(number) >= 0.5) ? parseInt(number) + 1 : parseInt(number) ;
+ }
+ ```
