@@ -9,3 +9,9 @@
 ## Personal Information
 I'm an enthusiastic and detail-oriented Software Engineer seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects.
 ***
+## Skills
+- Git/GitHub
+- HTML
+- CSS
+- JavaScript (fundamentals)
+***
